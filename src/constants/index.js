@@ -184,7 +184,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Basically jeta bolte cacchi seta hosse, Lotif vai sera!",
+      "Basically jeta bolte cacchi seta hosse, Lotif vai joss!",
     name: "Binita",
     designation: "CFO",
     company: "Acme Co",
